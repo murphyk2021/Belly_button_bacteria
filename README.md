@@ -8,7 +8,7 @@ The human body is home to an impressive number of bacterial species.  In fact, p
 
 To help her with this goal, we used Javascript and the d3 plotting library to sort, filter, and visualize records of bacterial species isolated from the belly buttons of volunteers from across the country.  We then used Plotly and bootstrap to create dynamic charts and graphs of each of the experimental samples.  She will be able to share this webpage with her colleagues as they continue to work on this project.
 
-![image of dashboard](https://github.com/murphyk2021/Belly_button_bacteria/blob/d8744648c01ba6a66c83ecb6decc269a815bae59/images/belly%20button%20dashboard.JPG)
+![image of dashboard](https://github.com/murphyk2021/Belly_button_bacteria/blob/192331a1cc99083238d285b162b6f6bee3daee82/images/belly%20button%20dashboard.JPG)
 
 ---
 [Link to Belly Button Bacteria Dashboard](https://murphyk2021.github.io/Belly_button_bacteria/)
